@@ -1,35 +1,13 @@
+# FREELANCING APP
 
----
+Full-stack Freelance Marketplace Application built with the MERN stack. This platform enables Clients to post projects and Freelancers to apply, collaborate, and manage work efficiently. Admin users can monitor and manage platform activities.
 
-## 💼 Freelancing App — README.md
+# Technology Used:
 
-```md
-# 💼 Freelancing App
-*A MERN-based freelance marketplace platform*
+React for frontend UI, Node.js and Express.js for backend services, MongoDB for database management. Authentication and authorization implemented using JSON Web Token (JWT). Real-time communication handled using Socket.IO.
 
-This application connects clients and freelancers, enabling project posting, applications, collaboration, and real-time chat.
+# Additional Features:
 
----
+Includes role-based access (Client, Freelancer, Admin), project posting and application workflow, real-time chat system, project management dashboard, secure authentication, and scalable RESTful APIs.
 
-## ✨ Features
-- Client, Freelancer & Admin roles
-- Project posting & application system
-- Project management dashboards
-- Real-time chat using Socket.IO
-- JWT-based authentication
-- Scalable REST APIs
-
----
-
-## 🛠 Tech Stack
-React.js · Node.js · Express.js · MongoDB  
-Socket.IO · JWT · HTML · CSS
-
----
-
-## 🚀 Live Demo
-🌐 https://freelancing-app-of4n.onrender.com
-
----
-
-💡 *Designed to simulate real-world freelance workflows.*
+# Live: https://freelancing-app-of4n.onrender.com
